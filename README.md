@@ -1,15 +1,45 @@
-My first project on github.
-week-1-task-tic-tac-toe-game.
-i have successfully completed my first week task assigned by AICP "Tic Tac Toe game in C++: A classic game of strategy and skill, where two players take turns placing symbols on a 3x3 grid to win. Implemented with a user-friendly interface, error handling, and efficient code for a seamless game play experience."
-DESCRIPCTION:
+Tic Tac Toe Game in C++*
 
-"Tic Tac Toe is a classic game of strategy and skill, implemented in C++ as a console application. The game allows two players, X and O, to take turns placing symbols on a 3x3 grid. The first player to get three in a row (horizontally, vertically, or diagonally) wins the game. The C++ implementation uses a simple text-based interface, with functions for handling player input, updating the game board, and determining the winner. The game also includes basic error handling and validation to ensure a smooth gameplay experience."
+*Overview*
 
-FEATURES:
+A classic game of strategy and skill, implemented in C++ as a console application.
 
-- User-friendly interface
-- Ability to play against the computer or another player
-- Option to restart the game or quit
-- Display of the game board and player moves
-- Handling of invalid input and errors
-- Optimized code for efficient gameplay
+*Features*
+
+- Play as X or O against the computer or another player
+- Simple text-based interface
+- Easy to compile and run.
+-*Print Board*: Displays the current state of the game board.
+- *Valid Move*: Checks if a move is valid (i.e., the space is empty).
+- *Make Move*: Updates the game board with a new move (X or O).
+- *Game Status*: Checks the game status (win, loss, draw, or in progress).
+
+*How to Play*
+
+1. Compile the program using `g++` (e.g., `g++ tic_tac_toe.cpp -o tic_tac_toe`)
+2. Run the program (e.g., `./tic_tac_toe`)
+3. Follow the on-screen instructions to play the game.
+
+*Controls*
+
+- Enter a number (0-8) to make a move.
+- Use the arrow keys to navigate the board.
+- Press Enter to submit your move.
+
+*Compiling and Running*
+
+- Requires a C++ compiler (e.g., `Dev c++`).
+- Compile and run the program using the commands above.
+
+*License*
+
+MIT License
+
+*Author*
+
+[Nayab]
+
+*Version*
+
+3.0
+
